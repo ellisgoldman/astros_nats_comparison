@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=Team(java.lang.String)
+comment0.text=\n\ Constructor\ for\ the\ class\ Team.\n\n\ @param\ fileName\ the\ file\ to\ be\ read\n
+comment1.params=
+comment1.target=java.util.ArrayList\ getTeamRoster()
+comment1.text=\n\ Returns\ the\ TeamRoster\ ArrayList\n\n\ @return\ the\ team\ roster\n
+comment2.params=fileName
+comment2.target=void\ readFile(java.lang.String)
+comment2.text=\n\ Reads\ the\ file,\ creates\ a\ new\ Player\ object\ and\ adds\ the\ player\ to\n\ the\ Array\ List.\n\n\ @param\ fileName\ the\ file\ to\ be\ read\n\ @throws\ IOException\n
+comment3.params=
+comment3.target=Player\ createPlayer()
+comment3.text=\n\ Constructs\ a\ new\ player\ object\ based\ on\ the\ metrics\ that\ define\ a\ player's\ stats.\n
+numComments=4
